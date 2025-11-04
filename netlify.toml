@@ -1,5 +1,5 @@
 [dev]
-command = "npm run dev"
+command = "netlify dev"
 framework = "#custom"
 port = 8888
 targetPort = 3000
