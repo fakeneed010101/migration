@@ -1,5 +1,5 @@
 {
-  "name": "olivela2.0",
+  "name": "migrated-shopclotha",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,7 +23,7 @@
     "@builder.io/react": "8.2.4",
     "@builder.io/widgets": "2.0.3",
     "@netlify/blobs": "7.3.0",
-    "@netlify/plugin-nextjs": "^5.14.4",
+    "@netlify/plugin-nextjs": "4.25.0",
     "@next/bundle-analyzer": "14.1.1-canary.10",
     "@psykhe-ai/browser-plugin-snowplow-ecommerce": "^0.1.1",
     "@reduxjs/toolkit": "1.9.7",

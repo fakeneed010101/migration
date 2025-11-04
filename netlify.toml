@@ -9,8 +9,5 @@ autoLaunch = true
 directory = "functions/"
 
 [[plugins]]
-package = "@netlify/plugin-nextjs"
-
-[[plugins]]
 package = "@netlify/plugin-functions-install-core"
 
